@@ -23,7 +23,7 @@
 define('DB_NAME', 'temsplants');
 
 /** MySQL database username */
-define('DB_USER', 'temsit');
+define('DB_USER', 'temsplants');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'QuintIan055');
